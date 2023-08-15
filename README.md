@@ -1,6 +1,6 @@
 # 12x10-bit-Signed-Dadda-Multiplier
 
--This repository contains a VHDL code for signed 12x10 bits signed Dadda Multiplier.  
+-This repository contains a VHDL code for 12x10 bits signed Dadda Multiplier.  
 
 -Baugh-Wooley technique has been used to for 2's complement signed multiplication.
 
